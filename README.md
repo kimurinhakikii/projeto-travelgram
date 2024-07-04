@@ -23,8 +23,7 @@ https://kimurinhakikii.github.io/projeto-travelgram/
 
 ## **Pré-requisitos e Como Rodar a Aplicação/Testes**
 ### **Pré-requisitos**
-- Node.js
-- NPM ou Yarn
+- HTML e CSS
 
 ### **Como Rodar a Aplicação**
 1. Clone o repositório:
