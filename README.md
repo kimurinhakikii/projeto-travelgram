@@ -72,8 +72,3 @@ https://kimurinhakikii.github.io/projeto-travelgram/
 ## **Autor**
 - **Nome:** [Yasmin Kimura]
 - **Contato:** [yasmin.kimura@gmail.com]
-
-## **Licença**
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
----
