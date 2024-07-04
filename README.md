@@ -3,12 +3,6 @@
 ## **Título e Descrição**
 Travelgram é um projeto desenvolvido para facilitar o compartilhamento de experiências de viagem. A plataforma permite que usuários postem fotos, descrições e dicas sobre seus destinos favoritos.
 
-## **Badges**
-![Badge1](path/to/badge1) ![Badge2](path/to/badge2)
-
-## **Status do Projeto**
-![Status](path/to/status)
-
 ## **Tabela de Conteúdos**
 - [Features](#features)
 - [Demonstração da Aplicação](#demonstração-da-aplicação)
