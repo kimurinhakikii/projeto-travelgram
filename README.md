@@ -1,7 +1,5 @@
 # **Projeto Travelgram**
 
-![Banner](path/to/your/banner)
-
 ## **Título e Descrição**
 Travelgram é um projeto desenvolvido para facilitar o compartilhamento de experiências de viagem. A plataforma permite que usuários postem fotos, descrições e dicas sobre seus destinos favoritos.
 
