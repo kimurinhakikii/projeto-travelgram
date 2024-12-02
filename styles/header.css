@@ -12,19 +12,17 @@ header .container {
 #profile {
     display: flex;
     gap: 32px;
-    width: 100%;
-    align-items: center;
 }
 
-#profile > div {
-    max-width: 384px;
-}
-
-#profile > img {
+#profile img {
     width: 176px;
     height: 176px;
     object-fit: cover;
     border-radius: 50%;
+}
+
+#profile>div {
+    max-width: 384px;
 }
 
 #profile h1 {
@@ -34,12 +32,11 @@ header .container {
 }
 
 #info {
-    list-style: none;
     display: flex;
     flex-direction: column;
     gap: 16px;
+    list-style: none;
     width: 280px;
-    margin-left: auto;
 }
 
 #info li {
