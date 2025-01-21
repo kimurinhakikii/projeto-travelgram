@@ -2,18 +2,18 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-block: 20px;
+    padding-block: 1.25rem;
 }
 
 nav ul {
     display: flex;
     list-style: none;
     align-items: center;
-    padding-block: 8px;
-    gap: 24px;
+    padding-block: 0.5rem;
+    gap: 1.5rem;
 }
 
 nav ul li:last-child img {
-    width: 40px;
-    height: 40px;
+    width: 2.5rem;
+    height: 2.5rem;
 }

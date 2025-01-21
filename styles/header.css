@@ -1,5 +1,5 @@
 header {
-    padding-block: 32px;
+    padding-block: 2rem;
     font: var(--text-md);
 }
 
@@ -11,36 +11,36 @@ header .container {
 
 #profile {
     display: flex;
-    gap: 32px;
+    gap: 2rem;
 }
 
 #profile img {
-    width: 176px;
-    height: 176px;
+    width: 11rem;
+    height: 11rem;
     object-fit: cover;
     border-radius: 50%;
 }
 
 #profile>div {
-    max-width: 384px;
+    max-width: 24rem;
 }
 
 #profile h1 {
     font: var(--text-lg);
     color: var(--text-color-primary);
-    margin-bottom: 8px;
+    margin-bottom: 0.5rem;
 }
 
 #info {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 1rem;
     list-style: none;
-    width: 280px;
+    width: 17.5rem;
 }
 
 #info li {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 0.5rem;
 }
