@@ -1,6 +1,7 @@
 main {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20.5rem, 1fr));
+    justify-items: center;
     gap: 1rem;
     padding-block: 1rem;
 }
@@ -14,6 +15,7 @@ main img {
     main {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
         gap: 1.5rem;
         padding-block: 1.5rem;
     }
