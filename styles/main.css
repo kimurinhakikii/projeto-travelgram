@@ -1,6 +1,6 @@
 main {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20.5rem, 1fr));
     gap: 1rem;
     padding-block: 1rem;
 }
