@@ -1,11 +1,25 @@
 main {
     display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    padding-block: 1.5rem;
+    flex-direction: column;
+    gap: 1rem;
+    padding-block: 1rem;
 }
 
 main img {
-    width: 17.875rem;
-    height: 17.875rem;
+    width: 20.5rem;
+    height: 20.5rem;
+}
+
+@media (width >= 80em) {
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        padding-block: 1.5rem;
+    }
+    
+    main img {
+        width: 17.875rem;
+        height: 17.875rem;
+    }
 }
